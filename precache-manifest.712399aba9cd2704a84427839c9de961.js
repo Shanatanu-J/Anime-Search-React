@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Anime-Search-React/static/js/runtime~main.02d59931.js"
   },
   {
-    "revision": "0a342dbb717519f452cf7b8698a7cba7",
+    "revision": "9eac2fb5fd9e1df5be19e77ddc10ff3f",
     "url": "/Anime-Search-React/index.html"
   }
 ];
