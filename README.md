@@ -11,10 +11,10 @@ This project contains the complete Front-end and Back-end to create a Search Eng
 - [Sass](https://sass-lang.com/)
 - React
 - Rest api
-- [Jinkan Api](https://jikan.moe/)
+- [Jikan Api](https://jikan.moe/)
 - npm
 
-## Jinkan Api
+## Jikan Api
 
 Jikan is a REST API for [MyAnimeList.net](https://myanimelist.net/). It scrapes the website to satisfy the need for API functionality that MyAnimeList.net lacks.
 
