@@ -28,5 +28,6 @@ Sass makes CSS fun again. Sass is an extension of CSS, adding nested rules, vari
 
 ## Upcoming Changes
 - Improved UI.
-- Featured Section For Starting Page.
+- Featured Anime Section For Starting Page.
 - Charecters Wiki.
+- Suggestions in Search Bar.
