@@ -1,5 +1,6 @@
 Author : Shantanu Jalkote<br>
-Version --v1.0
+Version --v1.0<br>
+Website Url : https://shanatanu-j.github.io/Anime-Search-React/
 
 # The ***Anime*** Wiki.
 This project contains the complete Front-end and Back-end to create a Search Engine that parses through the Jikan Api to find search result for the anime name and its corresponding image and also links it to MAL page of that anime.
