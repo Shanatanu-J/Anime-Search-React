@@ -26,6 +26,10 @@ Notice: Jikan REST API does not support authenticated requests. You can not upda
 ## Sass
 Sass makes CSS fun again. Sass is an extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more. It's translated to well-formatted, standard CSS using the command line tool or a plugin for your build system.
 
+## Search
+- The Search function can search for both the English as well as the Japanese name of the anime with the help of Jinkan Api and provide the respective Result as in the [MyAnimeList.net](https://myanimelist.net/) website.
+- Suggestions will be added in the next version
+
 ## Upcoming Changes
 - Improved UI.
 - Featured Anime Section For Starting Page.
